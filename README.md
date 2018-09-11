@@ -1,6 +1,18 @@
 # Motivation
 ***
 The project I made about purchase data analysis on BlackFriday from scratch as a step towards enhanching my understanding of machine learning.
+# Summary
+***
+- Some arrangments to make data in order to deal with 
+
+- Purchase column information seprated form the data (to apply the models)
+## Models
+***
+- xgboost.train
+
+- ExtraTreesRegressor
+
+- RandomForestRegressor
 
 # Library used
 ***
