@@ -24,5 +24,8 @@ The project I made about purchase data analysis on BlackFriday from scratch as a
   
   -import xgboost as xgb
   
+  -import matplotlib.pyplot as plt
+  
+  -import seaborn as sns
   
   ***
