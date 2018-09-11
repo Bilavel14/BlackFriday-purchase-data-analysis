@@ -6,7 +6,7 @@ The project I made about purchase data analysis on BlackFriday from scratch as a
 ***
   -Pandas as pd
   
-  -NumPy as np
+  -Numpy as np
   
   -from sklearn import preprocessing
   
