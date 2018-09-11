@@ -1,7 +1,9 @@
-Motivation
+#Motivation
+
 The project I made about purchase data analysis on BlackFriday from scratch as a step towards enhanching my understanding of machine learning.
 
-Library used
+#Library used
+
 -Pandas as pd
 -NumPy as np
 -from sklearn import preprocessing
